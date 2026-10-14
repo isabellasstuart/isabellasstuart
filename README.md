@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9D4EDD&height=70&section=header" width="100%"/>
 
-Meu nome é **Isabella dos Santos Stuart**, tenho 19 anos e sou do Paraná. Atualmente estou no 4º período de **Ciência da Computação** na Universidade Federal do Paraná.
+Meu nome é **Isabella dos Santos Stuart**, tenho 19 anos e sou do Paraná. Atualmente estou no 4º período de **Ciência da Computação** na UFPR.
 
 Participo do [**PET Computação**](https://petcomp.ufpr.br/), programa de âmbito nacional que envolve projetos de ensino, pesquisa e extensão, e de um grupo de estudos sobre **processamento de linguagem natural** no [**LIAMF**](https://www.inf.ufpr.br/liamf/) (Laboratório de Inteligência Artificial e Métodos Formais), ambos atrelados à UFPR.
 
@@ -31,6 +31,14 @@ Participo do [**PET Computação**](https://petcomp.ufpr.br/), programa de âmbi
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Haskell"
+    title="Haskell" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" 
 />
 <img 
     align="left" 
@@ -74,12 +82,12 @@ Participo do [**PET Computação**](https://petcomp.ufpr.br/), programa de âmbi
 />
 <img 
     align="left" 
-    alt="Figma" 
-    title="Figma"
+    alt="Nodejs"
+    title="Nodejs" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
-/> 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" 
+/>
 <img 
     align="left" 
     alt="LaTeX" 
@@ -87,14 +95,6 @@ Participo do [**PET Computação**](https://petcomp.ufpr.br/), programa de âmbi
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.simpleicons.org/latex/008080" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
 <br clear="left"/>
