@@ -1,6 +1,12 @@
-# Sobre mim
+# Olá! 👋
 
-Me chamo Isabella dos Santos Stuart, tenho 19 anos e sou do Paraná. Atualmente, estou no 4º período de Ciência da Computação na UFPR. Participo do PET Computação, programa de âmbito nacional que envolve projetos de ensino, pesquisa e extensão, e de um grupo de estudos sobre processamento de linguagem natural no LIAMF (Laboratório de Inteligência Artificial e Métodos Formais), ambos atrelados à UFPR.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9D4EDD&height=70&section=header" width="100%"/>
+
+Meu nome é **Isabella dos Santos Stuart**, tenho 19 anos e sou do Paraná. Atualmente estou no 4º período de **Ciência da Computação** na Universidade Federal do Paraná.
+
+Participo do [**PET Computação**](https://petcomp.ufpr.br/), programa de âmbito nacional que envolve projetos de ensino, pesquisa e extensão, e de um grupo de estudos sobre **processamento de linguagem natural** no [**LIAMF**](https://www.inf.ufpr.br/liamf/) (Laboratório de Inteligência Artificial e Métodos Formais), ambos atrelados à UFPR.
+
+## » Linguagens e ferramentas
 
 <img 
     align="left" 
@@ -89,4 +95,10 @@ Me chamo Isabella dos Santos Stuart, tenho 19 anos e sou do Paraná. Atualmente,
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>                   
+/>
+
+<br clear="left"/>
+
+## » Conecte-se comigo!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-349dd3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabella-s-stuart)&nbsp;&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-a559e2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isabella.stuart@ufpr.br)
