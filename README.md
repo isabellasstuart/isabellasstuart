@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9D4EDD&height=70&section=header" width="100%"/>
 
-Meu nome é **Isabella dos Santos Stuart**, tenho 19 anos e sou do Paraná. Atualmente estou no 4º período de **Ciência da Computação** na **Universidade Federal do Paraná**.
+Meu nome é **Isabella dos Santos Stuart**, tenho 19 anos e atualmente estou no 4º período de **Ciência da Computação** na **Universidade Federal do Paraná**.
 
 Participo do [**PET Computação**](https://petcomp.ufpr.br/), programa de âmbito nacional que envolve projetos de ensino, pesquisa e extensão, e de um grupo de estudos sobre **processamento de linguagem natural** no [**LIAMF**](https://www.inf.ufpr.br/liamf/) (Laboratório de Inteligência Artificial e Métodos Formais), ambos atrelados à UFPR.
 
